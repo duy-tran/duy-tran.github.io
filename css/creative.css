@@ -621,11 +621,12 @@ body {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    /*border: 10px solid #000;*/
+    background: url('../img/me.png');
+    border: 10px solid #313131;
 }
 #avatar:hover {
     transform: scale(1.15);
-    border-color: #1c9667;
+    border-color: #4cdaa3;
     transition: 1s;
 }
 .btn-circle{
